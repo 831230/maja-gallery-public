@@ -12,11 +12,6 @@ img {
   display: block;
 }
 
-.container {
-  /* margin: 0 auto; */
-  /* max-width: 350px; */
-}
-
 .gallery__list {
   /* margin: 0 auto; */
   display: flex;
